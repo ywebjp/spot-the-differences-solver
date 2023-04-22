@@ -9,7 +9,7 @@ This is a Python script that helps to solve "Spot The Differences" questions. Th
 ## Usage
 1. Clone this repository.
 2. Place the input image in the same directory as the script.
-3. Run the script by typing python spot_the_differences.py in the command line.
+3. Run the script by typing python spot_the_differences_1.00.py in the command line.
 4. The result image will be displayed, showing the differences in red.
 
 ## How it works
