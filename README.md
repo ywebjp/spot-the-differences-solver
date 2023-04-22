@@ -1,4 +1,4 @@
-# Spot The Differences Solver
+# "Spot The Differences" Solver
 This is a Python script that helps to solve "Spot The Differences" questions. The script takes an input image containing two almost identical images with some differences and highlights the differences in red, making them easy to spot.
 
 ## Requirements
