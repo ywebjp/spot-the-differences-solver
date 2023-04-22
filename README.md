@@ -26,6 +26,12 @@ The script uses OpenCV and NumPy to perform the following steps:
 9. Combine the left grayscale image and the red image based on the binary difference image.
 10. Display the result.
 
+## Input & Result 
+Input image (sample.png) <br>
+<img src="https://cdn.discordapp.com/attachments/707210735024865343/1099339463987040316/sample.PNG" alt="sample.png(input)" width="200"><br>
+Result<br>
+<img src="https://cdn.discordapp.com/attachments/707210735024865343/1099338623503052922/result.png" alt="result" width="200">
+
 ## Changelog
 - 2023/04/22: released "ver 1.00" (spot_the_differences_1.00.py)
 
